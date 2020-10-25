@@ -31,7 +31,7 @@
 
         <div class="col my-3">
             <a
-                href="https://github.com/ilya6210/vueapp/tree/dev/task_description"
+                href="https://github.com/ilya6210/vue.js-app/tree/main/task_description"
                 target="_blank"
             >
                 <h4>
